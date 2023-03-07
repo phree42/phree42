@@ -4,7 +4,7 @@ It's never too late to take a new direction. So at 42 I decided to switch career
 
 Therefore I offer you my skills gained in my previous experience. The main part of my job was to work with data from ERP system coming in different formats (PDF, CSV, messy excel files, plain text) to process it and transfer it to Excel/Sheets where I continue processing it until I achieve the set goals. There was a lot of copy-paste, pivot tables, charts, automating tables, manual typing, etc.
 
-In Sample projects section you can download the Excel files or take a look at the Google sheets for some examples of my work.
+In Data project repository you can download the Excel files or take a look at the Google sheets for some examples of my work.
 
 I work quickly and don't take on projects beyond my capabilities. 
 
